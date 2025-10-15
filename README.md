@@ -18,23 +18,23 @@
 ## 📱 About
 
 FOOM is a modern Android app built with Flutter that helps users:
-- 📊 Track and analyze their screen time
-- 🎁 Earn tokens by reducing phone usage
-- 💰 Invest tokens in Money Market Funds
-- 🔒 Block distracting apps
-- 💳 Integrate with M-Pesa for deposits/withdrawals
+- Track and analyze their screen time
+- Earn tokens by reducing phone usage
+- Invest tokens in Money Market Funds
+- Block distracting apps
+- Integrate with M-Pesa for deposits/withdrawals
 
 ## ✨ Features
 
 ### Core Features
-- ✅ **Screen Time Tracking** - Real-time usage monitoring with native Android APIs
-- ✅ **Token Rewards** - Earn 1 token per 10 minutes of reduced screen time
-- ✅ **Investments** - Access to CIC, Sanlam, and Britam Money Market Funds
-- ✅ **M-Pesa Integration** - Seamless deposits and withdrawals
-- ✅ **App Blocking** - Block distracting apps with Accessibility Service
-- ✅ **Analytics** - Beautiful charts showing daily and weekly trends
-- ✅ **Firebase Auth** - Email/Password and Google Sign-In
-- ✅ **User Profiles** - Customizable profiles and settings
+- Screen Time Tracking** - Real-time usage monitoring with native Android APIs
+- Token Rewards** - Earn 1 token per 10 minutes of reduced screen time
+- Investments** - Access to CIC, Sanlam, and Britam Money Market Funds
+- M-Pesa Integration** - Seamless deposits and withdrawals
+- App Blocking** - Block distracting apps with Accessibility Service
+- Analytics** - Beautiful charts showing daily and weekly trends
+- Firebase Auth** - Email/Password and Google Sign-In
+- User Profiles** - Customizable profiles and settings
 
 ### Screens Implemented
 - Splash Screen
@@ -55,7 +55,7 @@ FOOM is a modern Android app built with Flutter that helps users:
 - Native Android integration
 - Method channels for platform features
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Flutter SDK 3.0+
@@ -168,7 +168,7 @@ graph TD
     H --> I[Invest or Withdraw]
 ```
 
-## 🔐 Permissions
+## Permissions
 
 ### Required
 - **INTERNET** - Network access
@@ -177,7 +177,7 @@ graph TD
 ### Optional
 - **BIND_ACCESSIBILITY_SERVICE** - App blocking
 
-## 🎨 Screenshots
+## Screenshots
 
 *Coming soon - build and screenshot your app!*
 
@@ -204,7 +204,7 @@ static const String mpesaConsumerSecret = 'YOUR_SECRET';
 static const String mpesaShortcode = 'YOUR_SHORTCODE';
 ```
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Run tests
@@ -217,7 +217,7 @@ flutter analyze
 flutter doctor -v
 ```
 
-## 🚢 Deployment
+##  Deployment
 
 ### Google Play Store
 1. Create signing key
@@ -226,7 +226,7 @@ flutter doctor -v
 4. Complete store listing
 5. Submit for review
 
-## 📈 Performance
+## Performance
 
 - Fast startup (~2s)
 - Smooth 60fps animations
@@ -234,7 +234,7 @@ flutter doctor -v
 - Optimized database queries
 - Background usage tracking
 
-## 🤝 Contributing
+## Contributing
 
 This is a complete, production-ready app. Feel free to:
 - Customize colors and branding
@@ -242,7 +242,7 @@ This is a complete, production-ready app. Feel free to:
 - Enhance existing functionality
 - Submit improvements
 
-## 📄 License
+## License
 
 © 2025 FOOM. All rights reserved.
 
@@ -253,7 +253,7 @@ This is a complete, production-ready app. Feel free to:
 3. **Testing** - Use a real device for best results
 4. **Backend** - M-Pesa requires backend API (not included)
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Build Issues
 ```bash
@@ -278,17 +278,17 @@ sudo chmod -R 755 /usr/local/share/flutter
 - Firebase: https://firebase.google.com/docs
 - M-Pesa API: https://developer.safaricom.co.ke
 
-## 🎉 What's Included
+##  What's Included
 
-✅ Complete Flutter app with 27 Dart files  
-✅ Native Android code with method channels  
-✅ Firebase integration  
-✅ All screens and features implemented  
-✅ Comprehensive documentation  
-✅ Build automation scripts  
-✅ Production-ready code  
+-Complete Flutter app with 27 Dart files  
+-Native Android code with method channels  
+-Firebase integration  
+-All screens and features implemented  
+-Comprehensive documentation  
+-Build automation scripts  
+-Production-ready code  
 
-## 🚀 Start Building Now!
+## Start Building Now!
 
 ```bash
 cd /Users/mor/foom_app
