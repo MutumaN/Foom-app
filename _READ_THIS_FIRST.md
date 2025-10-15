@@ -52,7 +52,7 @@ flutter build apk --release
 
 ---
 
-## 🎯 What Happens After
+##  What Happens After
 
 Once permissions are fixed:
 - Flutter will work normally
@@ -84,7 +84,7 @@ If you share this Mac with user "tush", they can either:
 
 ---
 
-## 📱 After Building
+##  After Building
 
 Install on your phone:
 ```bash
