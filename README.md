@@ -79,7 +79,7 @@ FOOM is a modern Android app built with Flutter that helps users:
    flutter install
    ```
 
-That's it! 🎉
+That's it! 
 
 ## 📖 Documentation
 
@@ -153,7 +153,7 @@ foom_app/
 - **Payments**: M-Pesa Daraja API
 - **Native APIs**: UsageStatsManager, AccessibilityService
 
-## 📊 App Flow
+##  App Flow
 
 ```mermaid
 graph TD
@@ -246,7 +246,7 @@ This is a complete, production-ready app. Feel free to:
 
 © 2025 FOOM. All rights reserved.
 
-## 💡 Tips
+##  Tips
 
 1. **First Build** - Takes 5-10 minutes, subsequent builds are faster
 2. **Permissions** - Must grant Usage Access in device settings
@@ -256,7 +256,9 @@ This is a complete, production-ready app. Feel free to:
 ## Troubleshooting
 
 ### Build Issues
-```bash
+Hello community,
+
+I know this is probably an overused statement so forgive me, but I am at a complete loss. I obtained my A+ certification in December and have applied to a boatload of entry level help desk roles, and not a single one has even reached out to me; even with followup emails. I don't have the means to go to college and am just asking the community for their input. What can I do to stand out to an employer? I currently work freelance for a startup web hosting company as a technical support analyst. I have a help desk home lab listed on my resume. Any and all comments are appreciated.``bash
 flutter clean
 flutter pub get
 flutter build apk --release
