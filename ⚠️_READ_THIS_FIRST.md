@@ -1,4 +1,4 @@
-# ⚠️ IMPORTANT - Permission Issue Found!
+# IMPORTANT - Permission Issue Found!
 
 ## 🔍 The Problem
 
@@ -9,10 +9,10 @@ This is preventing any Flutter commands from working.
 ```
 Current Flutter owner: tush
 Your username: mor
-❌ Result: Permission denied
+ Result: Permission denied
 ```
 
-## ✅ The Fix (Takes 1 Minute)
+##  The Fix (Takes 1 Minute)
 
 ### Option 1: Automatic Fix (Easiest)
 
@@ -55,10 +55,10 @@ flutter build apk --release
 ## 🎯 What Happens After
 
 Once permissions are fixed:
-- ✅ Flutter will work normally
-- ✅ Dependencies will install
-- ✅ APK will build successfully
-- ✅ You'll never need to do this again
+- Flutter will work normally
+- Dependencies will install
+- APK will build successfully
+- You'll never need to do this again
 
 Your APK will be at:
 ```
@@ -67,7 +67,7 @@ Your APK will be at:
 
 ---
 
-## 🆘 Alternative: Ask User "tush"
+## Alternative: Ask User "tush"
 
 If you share this Mac with user "tush", they can either:
 
@@ -98,17 +98,17 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## ✨ Your App is Ready!
+##  Your App is Ready!
 
 Everything is coded and ready to go. Just need this one permission fix!
 
 **Run:** `./PERMISSION_FIX.sh`
 
-🚀 That's it!
+ That's it!
 
 ---
 
-## 💡 Why This Happened
+##  Why This Happened
 
 Flutter was probably installed by user "tush" who has admin rights. When you try to use it as "mor", you don't have permission to write to Flutter's cache directory.
 
